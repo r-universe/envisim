@@ -5,3 +5,6 @@
 [submodule "BalancedSampling"]
 	path = BalancedSampling
 	url = https://github.com/envisim/balancedsampling
+[submodule "nilsier"]
+	path = nilsier
+	url = https://github.com/envisim/nilsier
